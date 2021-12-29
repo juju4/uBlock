@@ -84,6 +84,7 @@
     "page": "dashboard.html",
     "open_in_tab": true
   },
+  "content_security_policy": "default-src 'none'; script-src 'self'; object-src 'self'",
   "permissions": [
     "dns",
     "menus",

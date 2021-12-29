@@ -64,6 +64,7 @@
     "browser_style": false,
     "open_in_tab": true
   },
+  "content_security_policy": "default-src 'none'; script-src 'self'; object-src 'self'",
   "permissions": [
     "privacy",
     "storage",
